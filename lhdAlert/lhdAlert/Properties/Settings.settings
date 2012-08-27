@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="lhdAlert.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sound" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="dataAddr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://lhd/alert/index.php/ajax</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

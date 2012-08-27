@@ -1,0 +1,10 @@
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\bin\Debug\lhdAlert.exe
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\bin\Debug\lhdAlert.pdb
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Debug\lhdAlert.Form1.resources
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Debug\lhdAlert.Properties.Resources.resources
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Debug\lhdAlert.csproj.GenerateResource.Cache
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Debug\lhdAlert.exe
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Debug\lhdAlert.pdb
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Debug\lhdAlert.settingsForm.resources
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\bin\Debug\lhdAlert.exe.config
