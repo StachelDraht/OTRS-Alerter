@@ -8,3 +8,6 @@ C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Rel
 C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Release\lhdAlert.csproj.GenerateResource.Cache
 C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Release\lhdAlert.exe
 C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\obj\Release\lhdAlert.pdb
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\bin\Release\Newtonsoft.Json.dll
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\bin\Release\Newtonsoft.Json.pdb
+C:\Users\ekarmak\Documents\Visual Studio 2008\Projects\lhdAlert\lhdAlert\bin\Release\Newtonsoft.Json.xml
